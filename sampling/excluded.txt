@@ -1,0 +1,58 @@
+text/html
+<html
+doctype
+not found
+mailgun
+forbidden
+unauthorized
+Content-Length: 0
+CDATA
+Content-Type: image/jpeg
+Content-Type: image/png
+Autodiscover
+URL Blocked
+redirect
+Content-Type: image/gif
+Content-Type: video/x-ms-asf
+AccessDenied
+No access
+Access denied
+cannot be found
+api key
+api-key
+unsupportedRequest
+socket.io
+errorcode
+resultcode
+errcode
+empty page
+error
+<div
+"message"
+probleem
+"status"
+\u003C
+logged out
+hello there
+hello from
+hello world
+DNS correctly implemented
+👍
+Unsupported service request
+fout
+Hello.
+"typo3-page"
+<?php
+Hallo
+ProCampaign
+browser
+clientConfig
+DOCTYPE html
+"_links"
+sitemap
+"jcr:primaryType"
+Content-Length: 2
+Content-Length: 3
+SAML:2.0:metadata
+[]
+<?xml version="1.0" encoding="UTF-8"?>
